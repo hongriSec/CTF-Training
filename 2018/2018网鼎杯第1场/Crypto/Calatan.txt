@@ -1,0 +1,2 @@
+We have developed a new cryptosystem, named Calatan, find the flag!
+nc 106.75.31.181 9999

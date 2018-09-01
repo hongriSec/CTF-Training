@@ -1,0 +1,6 @@
+spider
+分值：1000分 未解答   
+find the flag.
+
+动态爬虫，Redis Getshell。
+8000端口存在apache2

@@ -1,0 +1,1 @@
+hint: known bmp stego algorithm/tools
