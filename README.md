@@ -1,8 +1,12 @@
 ## CTF-Training
 
-本项目将收集各大比赛的题目和Writeup，方便大家进行练习。Web类的题目如果能getshell或者文件包含，我们会尽可能弄到源代码，也欢迎大家一起维护这个项目。
+本项目将收集各大比赛的 **题目** 和 **Writeup** ，方便大家进行练习。Web类的题目如果能getshell或者文件包含，我们会尽可能弄到源代码，也欢迎大家一起维护这个项目。
 
 ### 2018赛事
+
+#### 9月
+
+- [TokyoWesterns CTF 4th 2018](https://github.com/hongriSec/CTF-Training/tree/master/2018/TokyoWesterns-CTF-4th-2018) 
 
 #### 8月
 
