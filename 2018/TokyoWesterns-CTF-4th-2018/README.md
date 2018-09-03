@@ -10,7 +10,7 @@
 
 - **pysandbox**
 
-  https://ctftime.org/task/6513 by hackstreetboys
+  https://ctftime.org/writeup/10857 by hackstreetboys
 
   https://ctftime.org/writeup/10852 by DoubleSigma
 
@@ -41,6 +41,14 @@
   ```http
   http://shrine.chal.ctf.westerns.tokyo/shrine/{{request.__class__.__dict__['_load_form_data'].__globals__['current_app'].config}}
   ```
+
+- **load**
+
+  https://ctftime.org/writeup/10863 by c0c0nut
+
+- **Swap Returns**
+
+  https://ctftime.org/writeup/10864 by 10sec
 
 - **其他**：
 
