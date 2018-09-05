@@ -6,6 +6,7 @@
 
 #### 9月
 
+- [ISC 2018 蓝鲸魔塔线上赛](https://github.com/hongriSec/CTF-Training/tree/master/2018/ISC-2018-蓝鲸魔塔线上赛) 
 - [TokyoWesterns CTF 4th 2018](https://github.com/hongriSec/CTF-Training/tree/master/2018/TokyoWesterns-CTF-4th-2018) 
 
 #### 8月

