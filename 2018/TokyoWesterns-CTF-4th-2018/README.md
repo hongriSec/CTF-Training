@@ -63,6 +63,10 @@
 
   https://ctftime.org/writeup/10891 by PwnaSonic
 
+- **Slack emoji converter**
+
+  https://ctftime.org/writeup/10912 by BambooFox
+
 - **load** 
 
   https://lordidiot.github.io/2018-09-03/tokyowesterns-ctf-2018-load-pwn/
@@ -119,7 +123,17 @@
 
   https://github.com/p4-team/ctf/tree/master/2018-09-01-tokyowesterns/matrix_led 
 
+- **tw playing card**
+
+  https://github.com/zounathtan/ctf/blob/master/writeups/2018/TokyoWesterns_CTF/tw_playing_card/Readme.md 
+
+- **REVersiNG**
+
+  https://github.com/sea0breeze/ctf/tree/master/twctf-2018/REVersiNG
+
 - **其他**：
+
+  [TokyoWestern CTF WriteUp by r3kapig](https://www.anquanke.com/post/id/158894) 
 
   [Revolutional Secure Angou](https://ctftime.org/writeup/10862) by SealTeam1
 

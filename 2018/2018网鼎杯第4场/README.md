@@ -9,4 +9,4 @@
 - [CTF-i春秋网鼎杯第四场部分writeup](https://www.cnblogs.com/qiaoyifan/p/9558261.html) 
 - [网鼎杯第四场web题comment_writeup](https://www.dafsec.org/197.html) 
 - [网鼎杯第四场shenyue2-wp](https://xz.aliyun.com/t/2687) 
-
+- [从网鼎杯(第四场)的两题MIPS PWN谈起](https://www.anquanke.com/post/id/158673) 
