@@ -4,5 +4,6 @@
 
 ### Writeup
 
-- 
+- [ISC2018 魔塔线上赛 WP](http://www.whaledu.com/article/23) 
+- [ISC 2018 蓝鲸魔塔线上赛-pwn](https://blog.csdn.net/w12315q/article/details/82353495) 
 
