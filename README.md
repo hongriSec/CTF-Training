@@ -36,7 +36,7 @@
 
 **转载请注明来自**
 
-https://github.com/hongriSec/PHP-Audit-Labs/
+https://github.com/hongriSec/CTF-Training/
 
 ## 投搞
 
