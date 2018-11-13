@@ -3,6 +3,13 @@
 本项目将收集各大比赛的 **题目** 和 **Writeup** ，方便大家进行练习。Web类的题目如果能getshell或者文件包含，我们会尽可能弄到源代码，也欢迎大家一起维护这个项目。
 
 ## 2018赛事
+## 11月
+
+- [HCTF](https://github.com/hongriSec/CTF-Training/tree/master/2018/%E6%8A%A4%E7%BD%91%E6%9D%AF)
+
+## 10月
+
+- [护网杯](https://github.com/hongriSec/CTF-Training/tree/master/2018/%E6%8A%A4%E7%BD%91%E6%9D%AF)
 
 ## 9月
 
