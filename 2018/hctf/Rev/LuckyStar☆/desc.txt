@@ -1,0 +1,3 @@
+Description 
+Lucky channel!
+backup: https://hctf-1253126740.cos.ap-hongkong.myqcloud.com/LuckyStar.exe

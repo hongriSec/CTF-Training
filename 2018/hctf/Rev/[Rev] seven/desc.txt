@@ -1,0 +1,4 @@
+Description 
+Flag consists of lowercase letters and symbols. Please add hctf{} when submitting.
+backup: https://hctf-1253126740.cos.ap-hongkong.myqcloud.com/seven.sys
+backup: https://1drv.ms/u/s!AnQlXcMxEIRbgxsPsABMdZUTQpQ4

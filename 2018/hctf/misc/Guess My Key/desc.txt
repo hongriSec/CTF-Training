@@ -1,0 +1,9 @@
+Description 
+Here is a simple encryption system, you can treat it as a function: 
+C = F_enc(P, K)
+
+where C is the ciphertext, P is the plaintext, K is the key you have to figure out what it is. 
+The specific mapping rules of F_enc is automatically learned by machine learning tricks (So I don't know what it actually is in fact). 
+The provided API "/enc?msg=xxx&key=xxx", will expose some information of this mapping rules to you, you have to make full use of these clues and find out what the REAL_KEY is (you can replace it with your own key but you cannot read it directly). 
+P.S. You should wrap the correctly converted REAL_KEY with "hctf{" and "}" manually.
+URL http://150.109.62.46:13577/
