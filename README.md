@@ -31,7 +31,7 @@
 ## 项目维护
 
 - 小峰（团队[@红日](http://sec-redclub.com/))
-- CPR（个人[@红日](http://sec-redclub.com/)）
+- CPR（个人[CSDN](https://blog.csdn.net/hardhard123)）
 - 七月火 ([博客](https://mochazz.github.io/))
 
 ## 免责说明
