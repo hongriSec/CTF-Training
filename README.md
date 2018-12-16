@@ -5,6 +5,7 @@
 ## 2018赛事
 ## 11月
 
+- [LCTF2018](https://github.com/hongriSec/CTF-Training/tree/master/2018/LCTF2018)
 - [湖湘杯2018](https://github.com/hongriSec/CTF-Training/tree/master/2018/%E6%B9%96%E6%B9%98%E6%9D%AF2018)
 - [HCTF](https://github.com/hongriSec/CTF-Training/tree/master/2018/hctf)
 
