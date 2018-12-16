@@ -3,6 +3,10 @@
 本项目将收集各大比赛的 **题目** 和 **Writeup** ，方便大家进行练习。Web类的题目如果能getshell或者文件包含，我们会尽可能弄到源代码，也欢迎大家一起维护这个项目。
 
 ## 2018赛事
+## 12月
+
+- [百越杯2018](https://github.com/hongriSec/CTF-Training/tree/master/2018/%E7%99%BE%E8%B6%8A%E6%9D%AF2018)
+
 ## 11月
 
 - [LCTF2018](https://github.com/hongriSec/CTF-Training/tree/master/2018/LCTF2018)
@@ -29,6 +33,9 @@
 - [网鼎杯第二场](https://github.com/hongriSec/CTF-Training/tree/master/2018/2018%E7%BD%91%E9%BC%8E%E6%9D%AF%E7%AC%AC2%E5%9C%BA) 
 - [网鼎杯第一场](https://github.com/hongriSec/CTF-Training/tree/master/2018/2018%E7%BD%91%E9%BC%8E%E6%9D%AF%E7%AC%AC1%E5%9C%BA) 
 
+## 7月
+
+- [BesideTLV](https://github.com/hongriSec/CTF-Training/tree/master/2018/BesideTLV)
 
 ## 项目维护
 
