@@ -5,6 +5,7 @@
 ## 2018赛事
 ## 12月
 
+- [swpuctf](https://github.com/hongriSec/CTF-Training/tree/master/2018/swpuctf)
 - [百越杯2018](https://github.com/hongriSec/CTF-Training/tree/master/2018/%E7%99%BE%E8%B6%8A%E6%9D%AF2018)
 
 ## 11月
